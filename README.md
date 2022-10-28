@@ -1,2 +1,2 @@
 * React Breaking Bad API Website
-Made following [https://www.youtube.com/watch?v=YaioUnMw0mo](this tutorial).
+Made following [this tutorial](https://www.youtube.com/watch?v=YaioUnMw0mo).
